@@ -1,2 +1,3 @@
 # Ioting
-Laboratorium Interaktif IoT
+Laboratorium Interaktif IoT <br>
+Dibuat dengan GPT-6 Astra
